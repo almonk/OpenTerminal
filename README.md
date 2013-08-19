@@ -1,6 +1,8 @@
 Open Terminal
 ============
 
+<img src="http://f.cl.ly/items/2o252O3D0l3y161g2k1a/ehd38.jpg"/>
+
 An Alfred workflow to open a terminal in the same path as the current Finder window.
 
 ### Usage
